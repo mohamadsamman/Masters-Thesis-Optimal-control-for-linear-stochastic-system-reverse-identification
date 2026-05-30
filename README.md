@@ -1,2 +1,2 @@
-# Optimal-control-for-a-neuroscience-experiment
+# Optimal-control-for-linear stochastic system reverse identification
 Code and report coming soon
